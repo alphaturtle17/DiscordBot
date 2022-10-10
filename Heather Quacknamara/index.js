@@ -4,8 +4,8 @@ const bot = new Client();
 const urban = require('urban-dictionary');
 
 //#region (Tall Grass)
-const token = 'NzAzNDk3ODA3MzI3Mzk1OTAx.Xq91hA.5kExtYA6L9xeyvfl0_OVbV52z0U'; 
-const hook = new Discord.WebhookClient('704918099480019055', 'yykY_BKMD5zdwgcRSV2mQcNoJecxqQvFQdId7OFXu47PMi85ceX1QLsLuTuhodS5SNI7');
+const token = ''; 
+const hook = new Discord.WebhookClient('', '');
 //#endregion
 const PREFIX = '!';
 const version = "1.0.7";
