@@ -1,0 +1,15 @@
+{
+  "name": "no-taki",
+  "version": "1.0.0",
+  "description": "No Taki for What is Life?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thor Long",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "urban-dictionary": "^2.2.1"
+  }
+}
