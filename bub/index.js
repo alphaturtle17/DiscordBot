@@ -3,7 +3,7 @@ const bot = new Client();
 const PREFIX = '!';
 
 //#region (Tall Grass) 
-const token = 'NzgzMzE0MDI5MjIwMzMxNTMw.X8Y8CQ.Sjzx7-Xuh4wIXA_4YSEcEoogXPY'; 
+const token = ''; 
 //#endregion
 
 bot.on('ready', () => {
